@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lb3-easy-recaptcha.iml" filepath="$PROJECT_DIR$/.idea/lb3-easy-recaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/easy-recaptcha-verification.iml" filepath="$PROJECT_DIR$/.idea/easy-recaptcha-verification.iml" />
     </modules>
   </component>
 </project>
